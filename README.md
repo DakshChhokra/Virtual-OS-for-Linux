@@ -1,6 +1,4 @@
-PennOS - Virtual-OS-for-Linux
-
-Emulates a virtual FAT FileSystem on a single hostOS file with custom implementations of standard file system APIs. Contains a job scheduler using pthreads, bash-like shell interface with synchronous signaling, redirection, job control, terminal control, and a set of custom-implemented shell built-ins.
+PennOS - Virtual-OS-for-Linux. Emulates a virtual FAT FileSystem on a single hostOS file with custom implementations of standard file system APIs. Contains a job scheduler using pthreads, bash-like shell interface with synchronous signaling, redirection, job control, terminal control, and a set of custom-implemented shell built-ins.
 
 ## File Structure:
 ```
