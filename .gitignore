@@ -1,0 +1,11 @@
+**/.DS_Store
+*.sublime-*
+**/*.o
+**/*.pdb
+*.o
+bin/penn-os
+!parsejob.o
+log.txt
+bin/pennfat
+.vscode
+core
